@@ -1,0 +1,15 @@
+{
+  "authorized_testing": true,
+  "numbers_reserved_for_testing": true,
+  "allowed_hosts": [
+    "www.raxi17.com"
+  ],
+  "test_phone_start": "9863568254",
+  "test_phone_count": 145,
+  "reserved_test_numbers_file": "numbers.csv",
+  "delay_seconds": 1,
+  "timeout_ms": 15000,
+  "result_timeout_seconds": 10,
+  "selectors": {},
+  "success_url_regex": "/#/$"
+}
